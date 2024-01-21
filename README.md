@@ -1,10 +1,10 @@
 # [Docker do 0 à Maestria: Contêineres Desmistificados + 3 BÔNUS](https://www.udemy.com/course/docker-do-zero-a-maestria-conteinerizacao-desmistificada/?couponCode=GTHB_FLASH_SALE2021)
 ### [Domine containeres! Aprenda Docker do 0 absoluto na teoria e na prática! Integre o Docker à apps Java, .NET, Node JS e +](https://www.udemy.com/course/docker-do-zero-a-maestria-conteinerizacao-desmistificada/?couponCode=GTHB_FLASH_SALE2021)
 
-[![Continuous Integration with Github Actions](https://github.com/leandrocgsi/DockerFromZeroToMastery-SpingBoot-3.2.0-AndJava21/actions/workflows/continuous-integration.yml/badge.svg)](https://github.com/leandrocgsi/DockerFromZeroToMastery-SpingBoot-3.2.0-AndJava21/actions/workflows/continuous-integration.yml)
-![Forks](https://img.shields.io/github/forks/leandrocgsi/DockerFromZeroToMastery-SpingBoot-3.2.0-AndJava21)
-![Stars](https://img.shields.io/github/stars/leandrocgsi/DockerFromZeroToMastery-SpingBoot-3.2.0-AndJava21)
-![Last Commit](https://img.shields.io/github/last-commit/leandrocgsi/DockerFromZeroToMastery-SpingBoot-3.2.0-AndJava21)
+[![Continuous Integration with Github Actions](https://github.com/leandrocgsi/DockerFromZeroToMastery-Kotlin/actions/workflows/continuous-integration.yml/badge.svg)](https://github.com/leandrocgsi/DockerFromZeroToMastery-Kotlin/actions/workflows/continuous-integration.yml)
+![Forks](https://img.shields.io/github/forks/leandrocgsi/DockerFromZeroToMastery-Kotlin)
+![Stars](https://img.shields.io/github/stars/leandrocgsi/DockerFromZeroToMastery-Kotlin)
+![Last Commit](https://img.shields.io/github/last-commit/leandrocgsi/DockerFromZeroToMastery-Kotlin)
 [![Docker Hub Repo](https://img.shields.io/docker/pulls/leandrocgsi/docker-from-zero-to-mastery-java.svg)](https://hub.docker.com/repository/docker/leandrocgsi/docker-from-zero-to-mastery-java)
 
 [![Image](https://github.com/leandrocgsi/RestWithSpringBootUdemy/blob/master/Images/docker_do_zero_a_maestria_conteinerizacao_desmistificada.png?raw=true "Docker do Zero à Maestria - Contêinerização Desmistificada")](https://www.udemy.com/course/docker-do-zero-a-maestria-conteinerizacao-desmistificada/?couponCode=GTHB_FLASH_SALE2021)
@@ -24,12 +24,11 @@
 
 [![Image](https://github.com/leandrocgsi/RestWithSpringBootUdemy/blob/master/Images/28_CICD_JavaAzure.png?raw=true "Java Continuous Integration and Delivery with Azure and Github Actions")](https://www.udemy.com/course/java-continuous-integration-continuous-delivery-azure-e-github-actions/?couponCode=GTHB_FLASH_SALE2021)
 
-[![Image](https://github.com/leandrocgsi/RestWithSpringBootUdemy/blob/master/Images/docker_do_zero_a_maestria_conteinerizacao_desmistificada.png?raw=true "Docker do Zero à Maestria - Contêinerização Desmistificada")](https://www.udemy.com/course/docker-do-zero-a-maestria-conteinerizacao-desmistificada/?couponCode=GTHB_FLASH_SALE2021)
-
 [![Image](https://github.com/leandrocgsi/RestWithSpringBootUdemy/blob/master/Images/microservices.png?raw=true "Microservices do 0 à GCP com Spring Boot, Kubernetes e Docker")](https://www.udemy.com/course/microservices-do-0-a-gcp-com-spring-boot-kubernetes-e-docker/?couponCode=GTHB_FLASH_SALE2021)
 
 [![Image](https://github.com/leandrocgsi/RestWithSpringBootUdemy/blob/master/Images/microservices_.net6.png?raw=true "Arquitetura de Microsserviços do 0 com ASP.NET, .NET 6 e C#")](https://www.udemy.com/course/microservices-do-0-a-gcp-com-dot-net-6-kubernetes-e-docker/?couponCode=GTHB_FLASH_SALE2021)
 
+[![Image](https://github.com/leandrocgsi/RestWithSpringBootUdemy/blob/master/Images/docker_para_amazon_aws_implante_apps_java_e_dot_net_com_travis_ci.png?raw=true "Docker para Amazon AWS Implante Apps Java e .NET com Travis CI")](https://www.udemy.com/course/docker-para-amazon-aws-implante-aplicacoes-java-e-net/?couponCode=GTHB_FLASH_SALE2021)
 
 [![Image](https://github.com/leandrocgsi/RestWithSpringBootUdemy/blob/master/Images/microservices_kotlin.png?raw=true "Microservices do 0 à GCP com Spring Cloud, Kotlin, K8s e Docker")](https://www.udemy.com/course/microsservicos-do-0-a-gcp-c-spring-cloud-kotlin-kubernetes-e-docker/?couponCode=GTHB_FLASH_SALE2021)
 
@@ -44,8 +43,6 @@
 [![Image](https://raw.githubusercontent.com/leandrocgsi/RestWithSpringBootUdemy/master/Images/react_java.png "React JS consumindo REST API RESTful em Spring Boot Java 16")](https://www.udemy.com/course/aprenda-consumir-apis-restful-em-spring-boot-java-com-react-js-axios/?couponCode=GTHB_FLASH_SALE2021)
 
 [![Image](https://github.com/leandrocgsi/RestWithSpringBootUdemy/blob/master/Images/react_.net6.png?raw=true "React JS consumindo REST API RESTful em ASP.NET Core .NET 6")](https://www.udemy.com/course/aprenda-consumir-apis-restful-em-asp-dot-net-core-6-com-react-js-axios/?couponCode=GTHB_FLASH_SALE2021)
-
-[![Image](https://github.com/leandrocgsi/RestWithSpringBootUdemy/blob/master/Images/docker_para_amazon_aws_implante_apps_java_e_dot_net_com_travis_ci.png?raw=true "Docker para Amazon AWS Implante Apps Java e .NET com Travis CI")](https://www.udemy.com/course/docker-para-amazon-aws-implante-aplicacoes-java-e-net/?couponCode=GTHB_FLASH_SALE2021)
 
 [![Image](https://github.com/leandrocgsi/RestWithSpringBootUdemy/blob/master/Images/agile.png?raw=true "Agile desmistificado com Scrum, XP, Kanban, Spotify e Trello")](https://www.udemy.com/course/agile-no-mundo-real-scrum-xp-kanban-e-spotify-desmistificados/?couponCode=GTHB_FLASH_SALE2021)
 
@@ -67,6 +64,7 @@
 
 [![Image](https://github.com/leandrocgsi/RestWithSpringBootUdemy/blob/master/Images/docker_to_amazon_aws_deploy_apps_java_and_dot_net_with_travis_ci.png?raw=true "Docker to Amazon AWS Deploy Java & .NET Apps with Travis CI")](https://www.udemy.com/course/docker-to-amazon-aws-deploy-java-net-apps-with-travis-ci/?couponCode=GTHB_FLASH_SALE2021)
 
-Este é um dos repositórios dos codigos fonte desenvolvidos no curso [Docker para Amazon AWS Implante Apps Java e .NET com Travis CI](https://www.udemy.com/course/docker-para-amazon-aws-implante-aplicacoes-java-e-net/?couponCode=GTHB_FLASH_SALE2021)
+Este é um dos repositórios dos codigos fonte desenvolvidos no curso [Docker do 0 à Maestria: Contêineres Desmistificados + 3 BÔNUS](https://www.udemy.com/course/docker-do-zero-a-maestria-conteinerizacao-desmistificada/?couponCode=GTHB_FLASH_SALE2021)
 
-[<img src="https://github.com/leandrocgsi/DockerToAWSWithDotNet/blob/master/Images/udemy.png?raw=true">](https://www.udemy.com/course/docker-para-amazon-aws-implante-aplicacoes-java-e-net/?couponCode=GTHB_FLASH_SALE2021)
+[<img src="https://github.com/leandrocgsi/DockerFromZeroToMastery-Kotlin/blob/master/Images/udemy.png?raw=true">](https://www.udemy.com/course/docker-do-zero-a-maestria-conteinerizacao-desmistificada/?couponCode=GTHB_FLASH_SALE2021)
+
