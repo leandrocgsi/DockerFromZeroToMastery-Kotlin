@@ -13,21 +13,14 @@ import java.nio.file.Files
 import java.nio.file.Path
 import java.nio.file.Paths
 import java.nio.file.StandardCopyOption
-import java.util.logging.Logger
 
 @Service
 class FileStorageService @Autowired constructor(fileStorageConfig: FileStorageConfig) {
 
-    private final var fileStorageLocation: Path
-    val currentDir = System.getProperty("user.dir")
-
-    private val logger = Logger.getLogger(FileStorageService::class.java.name)
+    private val fileStorageLocation: Path
 
     init {
-
-        logger.info("currentDir is ######### ${currentDir}/UploadDir!")
-        // fileStorageLocation = Paths.get(fileStorageConfig.uploadDir).toAbsolutePath().normalize()
-        fileStorageLocation = Paths.get("${currentDir}/UploadDir").toAbsolutePath().normalize()
+        fileStorageLocation = Paths.get(fileStorageConfig.uploadDir).toAbsolutePath().normalize()
         try {
             Files.createDirectories(fileStorageLocation)
         } catch (e: Exception) {
